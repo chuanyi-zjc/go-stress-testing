@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"go-stress-testing/model"
+	"chuanyi-zjc/go-stress-testing/model"
 
 	"golang.org/x/net/http2"
 )

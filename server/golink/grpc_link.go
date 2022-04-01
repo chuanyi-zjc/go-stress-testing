@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-	"go-stress-testing/helper"
-	pb "go-stress-testing/proto"
+	"chuanyi-zjc/go-stress-testing/helper"
+	pb "chuanyi-zjc/go-stress-testing/proto"
 
-	"go-stress-testing/model"
-	"go-stress-testing/server/client"
+	"chuanyi-zjc/go-stress-testing/model"
+	"chuanyi-zjc/go-stress-testing/server/client"
 )
 
 // Grpc grpc 接口请求

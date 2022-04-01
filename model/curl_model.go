@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"go-stress-testing/helper"
+	"chuanyi-zjc/go-stress-testing/helper"
 )
 
 // CURL curl参数解析

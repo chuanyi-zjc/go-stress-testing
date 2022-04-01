@@ -10,7 +10,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"go-stress-testing/model"
+	"chuanyi-zjc/go-stress-testing/model"
 )
 
 // getZipData 处理gzip压缩

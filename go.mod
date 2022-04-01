@@ -1,4 +1,4 @@
-module go-stress-testing
+module chuanyi-zjc/go-stress-testing
 
 go 1.14
 

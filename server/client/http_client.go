@@ -8,12 +8,12 @@ import (
 	"os"
 	"time"
 
-	"go-stress-testing/model"
-	httplongclinet "go-stress-testing/server/client/http_longclinet"
+	"chuanyi-zjc/go-stress-testing/model"
+	httplongclinet "chuanyi-zjc/go-stress-testing/server/client/http_longclinet"
 
 	"golang.org/x/net/http2"
 
-	"go-stress-testing/helper"
+	"chuanyi-zjc/go-stress-testing/helper"
 )
 
 // logErr err

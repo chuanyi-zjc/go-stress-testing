@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"go-stress-testing/helper"
-	"go-stress-testing/model"
-	"go-stress-testing/server/client"
+	"chuanyi-zjc/go-stress-testing/helper"
+	"chuanyi-zjc/go-stress-testing/model"
+	"chuanyi-zjc/go-stress-testing/server/client"
 )
 
 const (

@@ -8,12 +8,12 @@ import (
 	"sync"
 	"time"
 
-	"go-stress-testing/tools"
+	"chuanyi-zjc/go-stress-testing/tools"
 
 	"golang.org/x/text/language"
 	"golang.org/x/text/message"
 
-	"go-stress-testing/model"
+	"chuanyi-zjc/go-stress-testing/model"
 )
 
 var (

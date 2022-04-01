@@ -6,13 +6,13 @@ import (
 	"sync"
 	"time"
 
-	httplongclinet "go-stress-testing/server/client/http_longclinet"
+	httplongclinet "chuanyi-zjc/go-stress-testing/server/client/http_longclinet"
 
-	"go-stress-testing/model"
-	"go-stress-testing/server/client"
-	"go-stress-testing/server/golink"
-	"go-stress-testing/server/statistics"
-	"go-stress-testing/server/verify"
+	"chuanyi-zjc/go-stress-testing/model"
+	"chuanyi-zjc/go-stress-testing/server/client"
+	"chuanyi-zjc/go-stress-testing/server/golink"
+	"chuanyi-zjc/go-stress-testing/server/statistics"
+	"chuanyi-zjc/go-stress-testing/server/verify"
 )
 
 const (
