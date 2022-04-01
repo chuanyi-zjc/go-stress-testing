@@ -8,12 +8,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/link1st/go-stress-testing/tools"
+	"go-stress-testing/tools"
 
 	"golang.org/x/text/language"
 	"golang.org/x/text/message"
 
-	"github.com/link1st/go-stress-testing/model"
+	"go-stress-testing/model"
 )
 
 var (

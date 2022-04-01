@@ -8,11 +8,12 @@ import (
 	"os"
 	"time"
 
-	"github.com/link1st/go-stress-testing/model"
-	httplongclinet "github.com/link1st/go-stress-testing/server/client/http_longclinet"
+	"go-stress-testing/model"
+	httplongclinet "go-stress-testing/server/client/http_longclinet"
+
 	"golang.org/x/net/http2"
 
-	"github.com/link1st/go-stress-testing/helper"
+	"go-stress-testing/helper"
 )
 
 // logErr err

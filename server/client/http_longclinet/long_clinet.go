@@ -7,7 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/link1st/go-stress-testing/model"
+	"go-stress-testing/model"
+
 	"golang.org/x/net/http2"
 )
 
